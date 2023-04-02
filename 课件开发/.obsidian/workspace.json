@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "ab922cb7c4cc717c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da0950117c263f49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99f09c8debc58bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Note/2023-04-02-课程目录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18ec69f466991b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Inbox/2023-04-02-前期调研收集以及想法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cfff09af00858c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Note/0. 课程定位及教学大纲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3634c469849c3c3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2e3a53fd55da4e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23692ffd31cada5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71d5b1219cf33b11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a86e3c0133839ad9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbfa8c64b441288e",
+    "type": "split",
+    "children": [
+      {
+        "id": "138f7b8859c89e48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae8fc67b4b7fac0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.Note/0. 课程定位及教学大纲.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0ad71c51717e410",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.Note/0. 课程定位及教学大纲.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15f4b9da736c6122",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c65b28f82978ee4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.Note/0. 课程定位及教学大纲.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7cfff09af00858c0",
+  "lastOpenFiles": [
+    "2.Note/2023-04-02-课程目录.md",
+    "2.Note/0. 课程定位及教学大纲.md",
+    "1.Inbox/2023-04-02-前期调研收集以及想法.md"
+  ]
+}
